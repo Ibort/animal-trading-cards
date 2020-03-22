@@ -1,0 +1,30 @@
+/* add your CSS here */
+.animalCardContainer{
+  width: 300px;
+  border: 1px solid LightGrey;
+  padding: 10px;
+  box-shadow: 10px 10px 4px Gainsboro;
+  font-family: serif;
+}
+.animalCardContainer h3 {
+  font-size: 25px;
+}
+.animalCardContainer img{
+  width: 300px;
+}
+.animalInfo {
+  margin-top: 10px;
+  width: 278px;
+  border: 1px solid LightGrey;
+  padding: 10px;
+}
+.animalFacts {
+  font-style: italic;
+}
+.animalListItems {
+  list-style-type: none;
+  padding: 0px;
+}
+.animalListItems span{
+  font-weight: bold;
+}
